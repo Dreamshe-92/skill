@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spec workflow
+.spec-workflow/
+
+# Daily logs (如果不想上传打卡记录)
+# daily/
+
+# 临时文件
+*.tmp
+*.log
