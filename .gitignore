@@ -25,6 +25,12 @@ Thumbs.db
 # Daily logs (如果不想上传打卡记录)
 # daily/
 
+#Todo list（todo跟进内容）
+#todoList
+
 # 临时文件
 *.tmp
 *.log
+
+# 配置文件 (包含敏感信息)
+script/weapm/config.yaml

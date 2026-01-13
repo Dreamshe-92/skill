@@ -1,0 +1,6 @@
+WCS:
+1、wcs-admin 版本全量；
+2、cnc 子系统ha failed问题跟进；
+3、云生产环境添加三台h20机器，目前存在gpu识别问题，和aiep开发同学定位中
+4、wcs管理台工单itsm相关报错跟进，itsm侧版本问题，待修复
+

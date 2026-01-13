@@ -1,0 +1,24 @@
+WCS:
+1、云oa环境host_info表tag数据刷新 已完成
+2、云生产gpu机器纳管完成之后aiep团队验证结果待跟进 已完成
+3、wcs-logagent版本待发布  已沟通版本发布注意事项
+4、wcs-rm、wcs-admin告警问题待跟进 
+5、wcs-worker告警自动化分析脚本待梳理链路 
+
+WEPS：
+1、行内kvaas组件error问题跟进
+
+WEAPM：
+1、weapm-logstore的read节点参数优化版本待发布
+2、weapm-view 内存告警问题待跟进（访问kv超时时连接没释放导致，临时方案：配置了每日凌晨重启任务；解决方案：已排版本）
+
+
+20260113:
+WCS:
+1、行内资源buffer梳理，与主机沟通确认hce资源26年到位情况；
+2、wcs-logagent版本发布；
+WEPS：
+WEAPM：
+1、weapm-logstore的read节点参数优化版本发布；
+2、weapm-logserver版本发布；
+会议：
